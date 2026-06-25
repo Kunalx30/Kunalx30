@@ -1,91 +1,87 @@
-# 💫 About Me
+# Hi, I'm Kunal Chandelkar 👋
 
-Hi, I'm **Kunal Chandelkar** 👋
-🎓 B.Tech CSE (2025) | 📊 Aspiring Data Analyst
+I build AI/ML products end-to-end — backend, frontend, ML pipelines, and Android — usually solo.
 
-🚀 Currently working as a **Data Science Intern at Infoz IT Solutions**, where I apply data analysis and machine learning techniques on real-world datasets.
-
----
-
-## 🔭 What I’m Doing
-
-* Working on **Data Analysis & Data Science projects** using Python (Pandas, NumPy)
-* Performing **Exploratory Data Analysis (EDA)** on real-world datasets
-* Building **interactive dashboards** using Excel & Power BI
-* Strengthening my portfolio for **Data Analyst roles**
+🎓 B.Tech CSE (2025) · 📍 Hyderabad, India
+🚀 Data Science Intern @ Infoz IT Solutions
+🛠️ Currently building **NirVexa** and **Saathi** (see below)
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 What I'm Building
 
-* Advanced SQL for Data Analytics
-* Machine Learning concepts
-* Power BI & Data Visualization
-* Statistics for Data Science
+**[NirVexa](https://nyrvexa.in)** — AI-powered career platform
+A hybrid-LLM job search & career assistant with semantic job matching (FAISS), an AI voice interviewer with a custom-trained TTS model, a LaTeX resume builder, salary insights, and skill-gap analysis. Backend on Flask/PostgreSQL, frontend on React/Vite, Android app in Kotlin + Jetpack Compose. Phases 1–3 are live; currently building the Android app (Phase 4).
 
----
+**Saathi** — Voice-first personal AI companion (in progress)
+On-device inference, Hindi-English bilingual support, long-term memory, phone control, and a safety layer for distress detection.
 
-## 👯 Open to Collaborate On
-
-* Data Analysis / Data Science projects
-* Open-source projects (Python, SQL, ML)
-* Real-world analytics case studies
+**Suggestify** — Multimodal recommendation engine
+406K+ item catalogue using Two-Tower + DLRM architecture, Qdrant vector search, FastAPI backend, React frontend.
 
 ---
 
-## 🤝 Looking for Help With
+## 📌 Featured Repos
 
-* Improving ML model performance
-* Industry-level best practices in Data Science
-* Solving real-world business problems using data
-
----
-
-## 💬 Ask Me About
-
-* Python for Data Analysis
-* SQL & Data Handling
-* Excel Dashboards & Visualization
+* [nirvexa-backend](https://github.com/Kunalx30/nirvexa-backend) · [nirvexa-frontend](https://github.com/Kunalx30/nirvexa-frontend) — NirVexa's Flask/PostgreSQL backend and React frontend
+* [suggestify-Recommendation-Engine](https://github.com/Kunalx30/suggestify-Recommendation-Engine) — Two-Tower + DLRM recommendation system
+* [AP-Rainfall-Warning-System](https://github.com/Kunalx30/AP-Rainfall-Warning-System) — Early warning system on 28M+ village-level records
+* [emotion-detection](https://github.com/Kunalx30/emotion-detection) — NLP emotion classifier (TF-IDF + LinearSVC, 89%+ accuracy)
+* [bangalore_house_price_-predictor](https://github.com/Kunalx30/bangalore_house_price_-predictor) — Ridge regression price predictor (R² 0.84)
 
 ---
 
-## 🌐 Connect With Me
+## ⚙️ Tech I Work With
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/honey981_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kunalx30/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:kunalchandelkar0002@gmail.com)
+**Languages:** Python, SQL, Kotlin
+**ML/DS:** PyTorch, Scikit-learn, Pandas, NumPy, NLP, FAISS, HuggingFace
+**Backend:** Flask, FastAPI, PostgreSQL, REST APIs
+**Frontend:** React, Vite, Tailwind CSS
+**Mobile:** Kotlin, Jetpack Compose, Hilt, Retrofit (MVVM)
+**Infra/Tools:** Render, Vercel, Git/GitHub, Power BI, Excel
 
----
-
-# 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat\&logo=database\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat\&logo=postgresql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat\&logo=numpy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat\&logo=plotly\&logoColor=black)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoft-excel\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 🌱 Currently Learning / Exploring
 
-![](https://github-readme-stats.vercel.app/api?username=kunalx30\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=kunalx30\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalx30\&theme=dark\&hide_border=false\&layout=compact)
+* On-device LLM inference for Android
+* Advanced retrieval & ranking systems
+* Production-grade ML system design
 
 ---
 
-## ✨ Quote
+## 🤝 Open to
 
-*"Data is the new oil, but insights are the real fuel."*
+* Collaborating on AI/ML or full-stack projects
+* Conversations on RAG, recommendation systems, or applied NLP
+* Feedback on NirVexa / Saathi
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kunalx30\&icon=0\&color=0)](https://visitcount.itsvg.in)
+## 🌐 Find Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kunalx30.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-chandelkar/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@kunalx30)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kunalchandelkar0002@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kunalx30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalx30&theme=dark&hide_border=false&layout=compact)
+
+---
+
+*"Shipping beats polishing."*
